@@ -1,0 +1,13 @@
+# Sistema CT Boneco Team
+
+Este é um sistema que foi desenvolvido para uma academia de artes marciais
+--------------------------------------------------------------------------
+
+Ele foi desenvolvido utilizando as linguagens PHP, Jquery, Javascript, SQL.
+
+Para o layout utilizei o template SB (conforme README-TEMPLATE), porém realizei algumas alterações para que se moldasse as necessidades do cliente.
+
+O sistema pode fazer ações de CRUD, gerar faturas mensais, acionados por meio de um button que é exibido se o aluno estivar ativo. 
+
+no arquivo SQL tem o SB de teste.
+
