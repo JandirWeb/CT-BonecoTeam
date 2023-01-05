@@ -1,13 +1,30 @@
-# Sistema CT Boneco Team
+### Sistema CT Boneco Team
+# Este é um sistema que foi desenvolvido para auxiliar no gerenciamento de uma academia de artes marciais
+---------------------------------------------------------------------------------------------------------
 
-Este é um sistema que foi desenvolvido para uma academia de artes marciais
---------------------------------------------------------------------------
+## I use it
+------------------
+<div style="display: inline-block">
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"><br /><br />
+</div>
 
-Ele foi desenvolvido utilizando as linguagens PHP, Jquery, Javascript, SQL.
+#Para o layout utilizei o template SB (conforme README-TEMPLATE), porém realizei algumas alterações para que se moldasse as necessidades do cliente.
 
-Para o layout utilizei o template SB (conforme README-TEMPLATE), porém realizei algumas alterações para que se moldasse as necessidades do cliente.
+## O Que o sistema pode fazer?
+- O sistema pode fazer ações de CRUD
+  - Adicionar Aluno
+  - Excluir Aluno
+  - Editar Aluno
+  - Atualizar Aluno
+- Gerenciar turmas por modalidade de arte marcial
+- Dashboard com total de alunos de cada modalidade
+- Total de alunos em débito
+- Valor bruto recebido
+- Gerar faturas mensais que são acionadas por meio de um button que é exibido se o aluno estivar ativo.
 
-O sistema pode fazer ações de CRUD, gerar faturas mensais, acionados por meio de um button que é exibido se o aluno estivar ativo. 
-
-no arquivo SQL tem o SB de teste.
-
+# No arquivo SQL tem o SB de teste.
